@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import cn.springmvc.model.User;
 
-
+ 
 @Controller
 @RequestMapping("/jsonView/")
 public class JsonController {
